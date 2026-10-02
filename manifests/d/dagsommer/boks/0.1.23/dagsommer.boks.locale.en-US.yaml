@@ -2,7 +2,7 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
 
 PackageIdentifier: dagsommer.boks
-PackageVersion: 0.1.22
+PackageVersion: 0.1.23
 PackageLocale: en-US
 Publisher: Dag Sommer
 PublisherUrl: https://github.com/dagsommer
@@ -11,7 +11,7 @@ Author: Dag Sommer
 PackageName: Boks
 PackageUrl: https://github.com/dagsommer/boks
 License: Apache-2.0
-LicenseUrl: https://github.com/dagsommer/boks/blob/v0.1.22/LICENSE
+LicenseUrl: https://github.com/dagsommer/boks/blob/v0.1.23/LICENSE
 ShortDescription: Run coding agents and other untrusted developer tooling in local microVMs
 Description: >-
   Boks runs coding agents and other untrusted developer tooling inside isolated microVMs on
@@ -37,7 +37,7 @@ Tags:
 - sandbox
 - security
 - virtualization
-ReleaseNotesUrl: https://github.com/dagsommer/boks/releases/tag/v0.1.22
+ReleaseNotesUrl: https://github.com/dagsommer/boks/releases/tag/v0.1.23
 InstallationNotes: |-
   Open a new terminal so that boks is on PATH, then:
 
@@ -48,10 +48,10 @@ InstallationNotes: |-
   Boks needs the Windows Hypervisor Platform. It is not code-signed; see docs/install.md.
 Documentations:
 - DocumentLabel: Installing Boks
-  DocumentUrl: https://github.com/dagsommer/boks/blob/v0.1.22/docs/install.md
+  DocumentUrl: https://github.com/dagsommer/boks/blob/v0.1.23/docs/install.md
 - DocumentLabel: What has actually been verified
-  DocumentUrl: https://github.com/dagsommer/boks/blob/v0.1.22/docs/verification.md
+  DocumentUrl: https://github.com/dagsommer/boks/blob/v0.1.23/docs/verification.md
 - DocumentLabel: Boks on Windows
-  DocumentUrl: https://github.com/dagsommer/boks/blob/v0.1.22/docs/windows.md
+  DocumentUrl: https://github.com/dagsommer/boks/blob/v0.1.23/docs/windows.md
 ManifestType: defaultLocale
 ManifestVersion: 1.12.0
