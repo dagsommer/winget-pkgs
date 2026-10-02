@@ -11,7 +11,7 @@ Author: Dag Sommer
 PackageName: Boks
 PackageUrl: https://github.com/dagsommer/boks
 License: Apache-2.0
-LicenseUrl: https://github.com/dagsommer/boks/blob/v0.1.23/LICENSE
+LicenseUrl: https://raw.githubusercontent.com/dagsommer/boks/v0.1.23/LICENSE
 ShortDescription: Run coding agents and other untrusted developer tooling in local microVMs
 Description: >-
   Boks runs coding agents and other untrusted developer tooling inside isolated microVMs on
@@ -48,10 +48,10 @@ InstallationNotes: |-
   Boks needs the Windows Hypervisor Platform. It is not code-signed; see docs/install.md.
 Documentations:
 - DocumentLabel: Installing Boks
-  DocumentUrl: https://github.com/dagsommer/boks/blob/v0.1.23/docs/install.md
-- DocumentLabel: What has actually been verified
-  DocumentUrl: https://github.com/dagsommer/boks/blob/v0.1.23/docs/verification.md
-- DocumentLabel: Boks on Windows
-  DocumentUrl: https://github.com/dagsommer/boks/blob/v0.1.23/docs/windows.md
+  DocumentUrl: https://dagsommer.github.io/boks/install/
+- DocumentLabel: Security model
+  DocumentUrl: https://dagsommer.github.io/boks/security-model/
+- DocumentLabel: Troubleshooting
+  DocumentUrl: https://dagsommer.github.io/boks/troubleshooting/
 ManifestType: defaultLocale
 ManifestVersion: 1.12.0
